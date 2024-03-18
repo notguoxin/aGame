@@ -1,0 +1,15 @@
+#player-0 {
+    display: block;
+    background-color: black;
+    height: 10px;
+    width: 10px;
+    position: fixed;
+    border: 1px white solid;
+}
+
+#player-0-name {
+    position: fixed;
+    border: 1px white solid;
+    height: 10px;
+    width: 10px;
+}
